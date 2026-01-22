@@ -29,7 +29,7 @@ export default function Products() {
             id: 4,
             name: "Kemeja Corak",
             price: "Rp 300.000",
-            description: "Renyah, gurih, dan pedasnya pas. Cemilan wajib di rumah.",
+            description: "Desain corak modern cocok untuk dipakai formal dan santai.",
             image: "Baju_4.jpg"
         },
     ]
