@@ -1,4 +1,4 @@
-# Elaven Store - Landing Page UMKM 🛍️
+# Elaven Store - Landing Page UMKM 
 
 Website landing page profesional yang modern dan responsif untuk UMKM **Elaven Store**, dibangun menggunakan **React**, **Tailwind CSS**, dan **Shadcn UI**.
 
@@ -64,4 +64,4 @@ src/
 Project ini open source dan tersedia di bawah lisensi [MIT](LICENSE).
 
 ---
-Dibuat dengan ❤️ oleh **Egal**
+Dibuat  oleh **Egal**
