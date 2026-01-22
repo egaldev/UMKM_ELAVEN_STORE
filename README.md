@@ -64,4 +64,4 @@ src/
 Project ini open source dan tersedia di bawah lisensi [MIT](LICENSE).
 
 ---
-Dibuat dengan ❤️ oleh **Egal**
+Dibuat  oleh **Egal**
